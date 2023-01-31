@@ -12,6 +12,8 @@ After you install this package, you can go to `yourapp.com/plausible` and exclud
 The documentation for this feature is here:
 https://plausible.io/docs/excluding-localstorage
 
+<img src="./exclusion-page.webp" alt="" />
+
 ## Installation
 
 You can install the package via composer:
