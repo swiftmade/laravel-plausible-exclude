@@ -2,7 +2,6 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/swiftmade/laravel-plausible-exclude.svg?style=flat-square)](https://packagist.org/packages/swiftmade/laravel-plausible-exclude)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/swiftmade/laravel-plausible-exclude/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/swiftmade/laravel-plausible-exclude/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/swiftmade/laravel-plausible-exclude/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/swiftmade/laravel-plausible-exclude/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/swiftmade/laravel-plausible-exclude.svg?style=flat-square)](https://packagist.org/packages/swiftmade/laravel-plausible-exclude)
 
 Quickly add a page to your Laravel application to exclude your visits from Plausible.
